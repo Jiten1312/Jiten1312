@@ -20,7 +20,7 @@
   <h4> Work Role : Voice Assitant Developer</h4> 
   <h4> From : 2021-08 </h4> 
   <h4> to :2021-12 </h4> 
-  <h4> Details : Elaachi is a software company that designs & creates Disruptive solutions for hoteliers. I worked on RASA, Node.js and mongoDb. </h4> 
+  <h4> Details : Elaachi is a software company that designs & creates Disruptive solutions for hoteliers. I worked on RASA, Node.js and mongoDb and contributed to implementation of conversational AI based Voice Assistant. </h4> 
 </li>
   
 <li><h4> Company Name : Institute for Plasma Research</h4> 
