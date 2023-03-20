@@ -15,6 +15,13 @@
 # Work Experience
 
 <ul>
+<li><h4> Company Name : TD </h4> 
+  <h4> Work Role : Quality Engineer</h4> 
+  <h4> From : 2023-01 </h4> 
+  <h4> to :Present </h4> 
+  <h4> Details : The Toronto-Dominion Bank & its subsidiaries are collectively known as TD Bank Group (TD). TD is the sixth largest bank in North America by branches & serves approximately 22 million customers in a number of locations in key financial centres around the globe. As QE, I am testing REST APIs using tools like Cucumber, ParasoftSOA and Postman </h4> 
+</li>
+  
 <li><h4> Company Name : Elaachi LLC </h4> 
   <h4> Work Role : Voice Assitant Developer</h4> 
   <h4> From : 2021-08 </h4> 
