@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiten1312&label=Profile%20views&color=0e75b6&style=flat" alt="jiten1312" /> </p>
 
 <h3 align="left">Name: Jitenkumar Dhimmar</h3>
-<h3 align="left">Email: dhimmarj@uwindsor.ca</h3>
+<h3 align="left">Email: jitendhimmar@gmail.com</h3>
 <h4 align="left">About: I do best in demanding situations when effort, passion, and innovation are required for success.</h4>
 
 <h3 align="left">Let's Connect</h3>
