@@ -19,9 +19,10 @@
   <h4> Work Role : DevOps Engineer</h4> 
   <h4> From : 2023-01 </h4> 
   <h4> to :Present </h4> 
-  <h4> Details : The Toronto-Dominion Bank & its subsidiaries are collectively known as TD Bank Group (TD). TD is the sixth largest bank in North America by branches & serves approximately 22 million customers in a number of locations in key financial centres around the globe. As QE, I am testing REST APIs using tools like Cucumber, ParasoftSOA and Postman </h4>
-  <h4> ⚡ Failure is just another step in the deployment process. Let's connect and build the future together </h4>
-  <h4> Automated application deployments, infrastructure provisioning, and disaster recovery workflows using SaltStack and Jenkins, significantly reducing deployment errors. Gained hands-on experience with public cloud IaaS (Azure), AKS and integrated monitoring solutions (DataDog/Dynatrace) to ensure system reliability and performance. Collaborated with cross-functional teams to optimize cloud infrastructure and streamline operational processes. </h4>
+  <h4> Details : The Toronto-Dominion Bank & its subsidiaries are collectively known as TD Bank Group (TD). TD is the sixth largest bank in North America by branches & serves approximately 22 million customers in a number of locations in key financial centres around the globe. </h4>
+  <h4> ⚡ Failure is just another step in the deployment process. </h4>
+  <h4> Let's connect and build the future together </h4>
+  <h4> At TD, I automated application deployments, infrastructure provisioning, and disaster recovery workflows using SaltStack and Jenkins, significantly reducing deployment errors. Gained hands-on experience with public cloud IaaS (Azure), AKS and integrated monitoring solutions (DataDog/Dynatrace) to ensure system reliability and performance. Collaborated with cross-functional teams to optimize cloud infrastructure and streamline operational processes. </h4>
 </li>
   
 <li><h4> Company Name : Elaachi LLC </h4> 
